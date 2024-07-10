@@ -1,7 +1,3 @@
-# Fake Artist Moodboarding
-## 2024-07-10-01
-## persn-fake_artist_moodboarding
-
 1. This project is basically supposed to be a gag little thing turned possibly-actually-useful
 2. My girl asked me if I can make her PC scroll through Pinterest automatically since she's so sick of manually scrolling when moodboarding
 3. I made here a simple script to inject thru chrome dev tools, which can be activated via calling the function, with speed as a possible parameter for taste
